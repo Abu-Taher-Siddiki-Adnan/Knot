@@ -14,7 +14,7 @@ plugins {
 }
 
 android {
-    namespace = "com.yourname.knot"
+    namespace = "com.adnan.knot"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -28,7 +28,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.yourname.knot"
+        applicationId = "com.adnan.knot"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
